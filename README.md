@@ -1,20 +1,20 @@
 # opt_simV2
 
-Simulation  Of  Optical  Mirrors Experiments
+Simulation  Of  Optical  Mirrors and lense Experiments
 
-Group – 08
+Group – 13
 
 Team members : 
 
- Kalaiyarasi  Ganesalingam (2012/CSC/011)
-( ashakalai31@gmial.com )
- Jeyarani Sivapathasundaram (2012/SP/043)
-( jeya08sivam@gmail.com )
- Sutharsika Sriskantharajah (2012/SP/065)
-( sutharc2010@yahoo.com )
-Jesitha Jeyaveerasingam (2012/SP/073)
- ( jesitha18@gmail.com )
-      Blog URL -  http://optmirrorsjk.blogspot.com/
+ Tharmila Paramalingam (2013/Sp/008)
+( s.m.saraniya@gmial.com )
+ Vani Theiventhira (2013/csc/026)
+( vani22theiventhira@gmail.com )
+ Sujanthan
+
+Suresh 
+ 
+      
        
 Introduction
 
